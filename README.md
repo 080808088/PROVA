@@ -2,6 +2,7 @@
 
 ## pre-requisiti necessari:
 - Installazione della Suite **Shrodinger** [link per il download](https://www.schrodinger.com/downloads/releases);
-- Installazione di GROMACS 2021.2 [link per il download](https://manual.gromacs.org/documentation/2021.2/download.html)
+- Installazione di **GROMACS 2021.2** [link per il download](https://manual.gromacs.org/documentation/2021.2/download.html)
 
 i codici PDB sono disponibili nel sito [RCSB:PDB](rcsb.org)
+
